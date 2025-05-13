@@ -13,11 +13,12 @@ Insecure Deserialization
 
 Directory Traversal
 
-**#Project Structure**
+**#project Structure**
 
 ├── app.py # Main Flask application with vulnerabilities
-├── users.db # SQLite database (optional) 
+├── users.db # SQLite database (optional)
 └── README.md # This file
+
 
 **How to Run the Application**
 
